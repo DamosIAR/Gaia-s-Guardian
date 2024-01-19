@@ -1,0 +1,2235 @@
+fileFormatVersion: 2
+guid: 0b7954783896faa43bab6f07bb4a380b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 224
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db31926f21b392b4c8c188f7fc51b394
+      internalID: 862555880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7516c26296a4c904e99e8df7e18e11da
+      internalID: 273074474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adae54ea168a6ad40a14ffc941abcf71
+      internalID: -864163809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 225
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03aeec997025be4e9001d71e4c5c64f
+      internalID: 299075448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 225
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9b95ff63dcc32459bac6511b6bfe39
+      internalID: 2059399161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 225
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95fb55dc3f03b542a21642269a27571
+      internalID: 2050499206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 225
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be102f1a2e5710547b5a4f2862b45001
+      internalID: -977555808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 225
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73550362b86d61a4584944e469d3bd07
+      internalID: -1246336617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 225
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa3b5e0e4eca3e44a3754f26235a52c
+      internalID: 1797277016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 227
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b8261e28ee1aa48a9a8123313f434f
+      internalID: -1570727923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 227
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b00b2c868a76c34c9faa0d77ffe8636
+      internalID: -1246906877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 227
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9948112f1a0a87549850ab1868e599d1
+      internalID: -309082753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14964bc58fb377844a07981305bbdad9
+      internalID: 250865729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48fed3e0b8aa4a4ba83812d985ea0d3
+      internalID: 29876456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 192
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b3d3eea820984a8452ae7d69c2dac
+      internalID: -1029740954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 193
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde30e3be1d864c45b38bf883017f12e
+      internalID: -1798901413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 193
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9362a0f7a957ab046a63c9fffbb33d73
+      internalID: -647825938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 193
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3fe87e4d470d8489f00c3fe3935dd6
+      internalID: -586989962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_18
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 193
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97db7c3714bb79f42a739d9e4858fef1
+      internalID: 1594715962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 193
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6affd437626bbd4a926b0ec8bc2ea6e
+      internalID: 726368697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_20
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 193
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008b87971626d0f47bc97fdd794f65e8
+      internalID: -487087483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 195
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d40c789b0ab567429bc70c4340b556c
+      internalID: 2092835056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_22
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 195
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e155c8f68f3e64ba6afe34f3ad661d
+      internalID: 1530374919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_23
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 195
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e38e6bd886dc554fb6a4ad48190d4e3
+      internalID: 403205483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293118463fc48c74b85793c4d4d2983c
+      internalID: 853959483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 160
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be2d39d1e0fe2d44979e6caf1150757
+      internalID: -1831924565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 160
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae88b8674eb889429675b699b1f4a06
+      internalID: -1247243411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff043aa62b7b79418efd8b1032a9583
+      internalID: 1627905246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 161
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad453d98226c5cd419801498397fc572
+      internalID: 1904898430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 161
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b40be67fb869194dbf0c6dd3ea9b323
+      internalID: -2102020526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7906408ca0ac22c4a8cde149fc6fc053
+      internalID: -809741516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 161
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03231a7156ac0a4b9d656d9c5183288
+      internalID: 611410789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_32
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 161
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e843f79ea488a454b9f02a44d0bb3188
+      internalID: 1522103142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 163
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eff136ee14e4c488974b56ee848aec
+      internalID: 1333490436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 163
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ae22ea3833bd46b2549b94ec7aec7
+      internalID: 3205448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_35
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 163
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110339043c78ad5408283f1015e5dba7
+      internalID: 82896287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caa1e74f6084504ea0ba00dc8c225c3
+      internalID: 1828766594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 128
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bad4e01d9428ef40838fa7bd0d93142
+      internalID: -2083900394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fb48295b5ee484a88f47c9121574c3
+      internalID: -1176947286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 129
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dbc4616683d124cb13b62d5f117b94
+      internalID: -1005450156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6bc11a16a2ebc4db9f7488314060b8
+      internalID: 1939521797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 129
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c47728e9f7f6b41b42fec87c5000cc
+      internalID: -1967566838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 129
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8880444c5e064c048839c3e56aa237f0
+      internalID: 204472331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 129
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51e26543d46aaa4b8ffca03bcecc1a5
+      internalID: -474596156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 129
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778b9c132f43fea4a829bf3481643283
+      internalID: -1488779269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_45
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c21111382f826c48b0d6692dc144da0
+      internalID: 936650899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 131
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1d3f55b634bae49bd687d651bf32f8
+      internalID: -947554731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_47
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 131
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8978c1d4b9dc03a4693bfc71f2e194ff
+      internalID: -1302635470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 97
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9c4ecf066460c449cb512bf9af40d9
+      internalID: 1757502534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 97
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb870a202fe6d142b9491aaaf40f456
+      internalID: 1124691990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 97
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3547a79540bb94e9b325fb079fc22c
+      internalID: -209488947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 97
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545387cd53e9a5f46b1da69972d19ab9
+      internalID: -1370617907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_52
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 97
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65cd25353f9f134cb0e120c3195ba1c
+      internalID: 572067369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_53
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 97
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d311f06aed67d304f8765baa3cbda47f
+      internalID: -718238137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 98
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247ca515db22f424f8925eafea724420
+      internalID: 1580985482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 98
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa610a970406ffc45982e40e9ebeb77e
+      internalID: -1023542461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 98
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6110231c822a547b721d5ea8d3f6b6
+      internalID: 730555676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_57
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 98
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3412e32f5316ce419e3358e4c590ebb
+      internalID: 1349089623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_58
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 98
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6f5dbc73d3ec4409143db2ffba4d0e
+      internalID: -1085585190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_59
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 98
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702b6f423aaaf5540998b318b3fb29ea
+      internalID: -1651795757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859fee413feec034a93450e1ba3ce611
+      internalID: -1011631558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_61
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6311f98fbfc25b4da13da97f2c8998c
+      internalID: -1833028810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1b9b7f8679e3e48a55f43494c230ba
+      internalID: -466847533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_63
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 65
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ed7531040cb5e42b45342cbf2e035a
+      internalID: 292091097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_64
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 65
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc3937d992aa764ab3ea67f5af8d218
+      internalID: 789776591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 65
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3ef2be4f1a8874291042212e7bf285
+      internalID: -1086257639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_66
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 66
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c5df3cd1470e84dab9cd7f7efdcdb0
+      internalID: -937109861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_67
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 66
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a19f8659e1132408e7144eeedfff4c
+      internalID: 294699413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_68
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 66
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5cc810f8c88c54d95cfd0a82fec1c8
+      internalID: 1674374767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_69
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 66
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa45e89b20f0af40a32040a590cc96d
+      internalID: -2044892779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 66
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a86799f1e39a1a4a81bc5de5904507e
+      internalID: 1257122574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_71
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 66
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adac9f912eeb84479a8e5363d46dbca
+      internalID: -846342254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d65dfd558511c34bb73bc9acf467b98
+      internalID: -326988834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 33
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19650f4b094765b41ad00e0ab46f1b47
+      internalID: -1378276253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c830509c9522e1049ac2947ecc230dbe
+      internalID: 110578500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_75
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 33
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35ff7f7bbdadad4f9b9b7cda9326e6d
+      internalID: -1934015266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_76
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 33
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71da2b6edddf9f429d1f6029dbb283a
+      internalID: 907777772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_77
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 33
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e311571b3c463fd48b1f1d7b9bdf8c2c
+      internalID: 548884476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901ece8ea0883a944852420b6102075f
+      internalID: -1620046051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 34
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d900d30c6d2c2409f6f3dbaeb6f8ed
+      internalID: 218794066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_80
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 34
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2858604023ac1d43ab6e92f58de6de0
+      internalID: -1536841376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_81
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 34
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4692abacb2371c2488cd891f40526b24
+      internalID: 1188493947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_82
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 34
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db6a88744a955c45b29103c181bf15b
+      internalID: -443846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_83
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 34
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce6aac2c15db6e4c9a1a363c6a0aa68
+      internalID: -961545917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bdeb7ad939aa74c96dfa1e8015242a
+      internalID: -679120018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c919aeb616f9d1941981d55e2b9bf4c4
+      internalID: 1136574570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97a1d3fb3d374144b7432ca2ec5a757
+      internalID: 1106542129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_87
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ac406d8a64a86439011198db9dce08
+      internalID: -2126503142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_88
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80617f3612444644ea68e49a7b985e29
+      internalID: -1703185176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_89
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf358d623a8dea4c9cab559058dba30
+      internalID: -254286846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd79e83c1720534f926a1cc03cb0d37
+      internalID: -1347109793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_91
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e74ce8644519543a251ba888c7cf1b
+      internalID: 1121285246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_92
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c1878dbe1672347860cde59f44d617
+      internalID: 1285480884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_93
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd733c7a12be2c4cbc6795c2854e576
+      internalID: -1217018844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_94
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb55db1269f6a142867c0ae30a9678a
+      internalID: -309810809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sprites_by_biofunk95_d8y869y_95
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b5820795f25794d8b3789bf287e272
+      internalID: 238662233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cat_sprites_by_biofunk95_d8y869y_95: 238662233
+      cat_sprites_by_biofunk95_d8y869y_79: 218794066
+      cat_sprites_by_biofunk95_d8y869y_27: 1627905246
+      cat_sprites_by_biofunk95_d8y869y_0: 862555880
+      cat_sprites_by_biofunk95_d8y869y_66: -937109861
+      cat_sprites_by_biofunk95_d8y869y_92: 1285480884
+      cat_sprites_by_biofunk95_d8y869y_22: 1530374919
+      cat_sprites_by_biofunk95_d8y869y_87: -2126503142
+      cat_sprites_by_biofunk95_d8y869y_50: -209488947
+      cat_sprites_by_biofunk95_d8y869y_23: 403205483
+      cat_sprites_by_biofunk95_d8y869y_49: 1124691990
+      cat_sprites_by_biofunk95_d8y869y_38: -1176947286
+      cat_sprites_by_biofunk95_d8y869y_93: -1217018844
+      cat_sprites_by_biofunk95_d8y869y_76: 907777772
+      cat_sprites_by_biofunk95_d8y869y_60: -1011631558
+      cat_sprites_by_biofunk95_d8y869y_21: 2092835056
+      cat_sprites_by_biofunk95_d8y869y_84: -679120018
+      cat_sprites_by_biofunk95_d8y869y_15: -1798901413
+      cat_sprites_by_biofunk95_d8y869y_26: -1247243411
+      cat_sprites_by_biofunk95_d8y869y_32: 1522103142
+      cat_sprites_by_biofunk95_d8y869y_9: -1570727923
+      cat_sprites_by_biofunk95_d8y869y_25: -1831924565
+      cat_sprites_by_biofunk95_d8y869y_4: 2059399161
+      cat_sprites_by_biofunk95_d8y869y_40: 1939521797
+      cat_sprites_by_biofunk95_d8y869y_77: 548884476
+      cat_sprites_by_biofunk95_d8y869y_5: 2050499206
+      cat_sprites_by_biofunk95_d8y869y_45: 936650899
+      cat_sprites_by_biofunk95_d8y869y_53: -718238137
+      cat_sprites_by_biofunk95_d8y869y_17: -586989962
+      cat_sprites_by_biofunk95_d8y869y_36: 1828766594
+      cat_sprites_by_biofunk95_d8y869y_61: -1833028810
+      cat_sprites_by_biofunk95_d8y869y_39: -1005450156
+      cat_sprites_by_biofunk95_d8y869y_90: -1347109793
+      cat_sprites_by_biofunk95_d8y869y_70: 1257122574
+      cat_sprites_by_biofunk95_d8y869y_91: 1121285246
+      cat_sprites_by_biofunk95_d8y869y_18: 1594715962
+      cat_sprites_by_biofunk95_d8y869y_33: 1333490436
+      cat_sprites_by_biofunk95_d8y869y_43: -474596156
+      cat_sprites_by_biofunk95_d8y869y_94: -309810809
+      cat_sprites_by_biofunk95_d8y869y_73: -1378276253
+      cat_sprites_by_biofunk95_d8y869y_54: 1580985482
+      cat_sprites_by_biofunk95_d8y869y_16: -647825938
+      cat_sprites_by_biofunk95_d8y869y_48: 1757502534
+      cat_sprites_by_biofunk95_d8y869y_71: -846342254
+      cat_sprites_by_biofunk95_d8y869y_67: 294699413
+      cat_sprites_by_biofunk95_d8y869y_64: 789776591
+      cat_sprites_by_biofunk95_d8y869y_28: 1904898430
+      cat_sprites_by_biofunk95_d8y869y_74: 110578500
+      cat_sprites_by_biofunk95_d8y869y_42: 204472331
+      cat_sprites_by_biofunk95_d8y869y_29: -2102020526
+      cat_sprites_by_biofunk95_d8y869y_56: 730555676
+      cat_sprites_by_biofunk95_d8y869y_75: -1934015266
+      cat_sprites_by_biofunk95_d8y869y_19: 726368697
+      cat_sprites_by_biofunk95_d8y869y_68: 1674374767
+      cat_sprites_by_biofunk95_d8y869y_88: -1703185176
+      cat_sprites_by_biofunk95_d8y869y_35: 82896287
+      cat_sprites_by_biofunk95_d8y869y_1: 273074474
+      cat_sprites_by_biofunk95_d8y869y_3: 299075448
+      cat_sprites_by_biofunk95_d8y869y_72: -326988834
+      cat_sprites_by_biofunk95_d8y869y_44: -1488779269
+      cat_sprites_by_biofunk95_d8y869y_12: 250865729
+      cat_sprites_by_biofunk95_d8y869y_82: -443846
+      cat_sprites_by_biofunk95_d8y869y_31: 611410789
+      cat_sprites_by_biofunk95_d8y869y_81: 1188493947
+      cat_sprites_by_biofunk95_d8y869y_24: 853959483
+      cat_sprites_by_biofunk95_d8y869y_83: -961545917
+      cat_sprites_by_biofunk95_d8y869y_20: -487087483
+      cat_sprites_by_biofunk95_d8y869y_62: -466847533
+      cat_sprites_by_biofunk95_d8y869y_6: -977555808
+      cat_sprites_by_biofunk95_d8y869y_14: -1029740954
+      cat_sprites_by_biofunk95_d8y869y_8: 1797277016
+      cat_sprites_by_biofunk95_d8y869y_78: -1620046051
+      cat_sprites_by_biofunk95_d8y869y_41: -1967566838
+      cat_sprites_by_biofunk95_d8y869y_80: -1536841376
+      cat_sprites_by_biofunk95_d8y869y_69: -2044892779
+      cat_sprites_by_biofunk95_d8y869y_63: 292091097
+      cat_sprites_by_biofunk95_d8y869y_11: -309082753
+      cat_sprites_by_biofunk95_d8y869y_51: -1370617907
+      cat_sprites_by_biofunk95_d8y869y_65: -1086257639
+      cat_sprites_by_biofunk95_d8y869y_55: -1023542461
+      cat_sprites_by_biofunk95_d8y869y_86: 1106542129
+      cat_sprites_by_biofunk95_d8y869y_57: 1349089623
+      cat_sprites_by_biofunk95_d8y869y_52: 572067369
+      cat_sprites_by_biofunk95_d8y869y_34: 3205448
+      cat_sprites_by_biofunk95_d8y869y_30: -809741516
+      cat_sprites_by_biofunk95_d8y869y_47: -1302635470
+      cat_sprites_by_biofunk95_d8y869y_85: 1136574570
+      cat_sprites_by_biofunk95_d8y869y_7: -1246336617
+      cat_sprites_by_biofunk95_d8y869y_58: -1085585190
+      cat_sprites_by_biofunk95_d8y869y_89: -254286846
+      cat_sprites_by_biofunk95_d8y869y_13: 29876456
+      cat_sprites_by_biofunk95_d8y869y_10: -1246906877
+      cat_sprites_by_biofunk95_d8y869y_46: -947554731
+      cat_sprites_by_biofunk95_d8y869y_2: -864163809
+      cat_sprites_by_biofunk95_d8y869y_37: -2083900394
+      cat_sprites_by_biofunk95_d8y869y_59: -1651795757
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
